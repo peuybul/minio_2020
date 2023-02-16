@@ -1,1 +1,3 @@
-# minio_2020
+# Minio_2020
+
+docker-compose up -d
