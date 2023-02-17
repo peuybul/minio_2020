@@ -1,8 +1,8 @@
 # Minio_2020
 
 -- Create Directory
-mkdir data
-chmod +x data
+- mkdir data
+- chmod +x data
 
 -- Change User & Password
 
@@ -12,5 +12,4 @@ chmod +x data
   - MINIO_SECRET_KEY=password
 
 -- Run Docker-Compose
-
-docker-compose up -d
+- docker-compose up -d
