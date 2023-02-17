@@ -1,5 +1,9 @@
 # Minio_2020
 
+-- Create Directory
+mkdir data
+chmod +x data
+
 -- Change User & Password
 
   - MINIO_ROOT_USER=user
